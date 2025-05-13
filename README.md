@@ -1,4 +1,4 @@
-# vCard - Personal portfolio
+# Personal portfolio Website
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
 ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
@@ -38,6 +38,8 @@ git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
 ## Contact
 
 If you want to contact me on Github you can reach me at [GitHub](https://github.com/KARTIK-PANDEY).
+
+
 If you want to contact me On Linkedln you can reach me at [linkedln](https://www.linkedin.com/in/kartik-pandey-1324a4253).
 
 ## License
